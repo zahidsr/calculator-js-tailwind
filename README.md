@@ -11,6 +11,6 @@ Bu proje, JavaScript ve Tailwind CSS kullanılarak oluşturulmuş temel seviyede
 
 ## Ekran Görüntüsü
 
-![alt text](<Opera Anlık Görüntü_2025-02-18_233732_127.0.0.1.png>)
+![alt text](<deneme.png>)
 
 
